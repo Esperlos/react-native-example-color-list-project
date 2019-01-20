@@ -1,0 +1,4 @@
+#Sun Jan 20 09:38:24 IRST 2019
+base.0=H\:\\Projects\\Esperlos\\ColorListProject\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
